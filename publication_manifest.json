@@ -52,6 +52,7 @@
     "results/full/figures/rmse_comparison.pdf": "f8d9f111653e14bb6ab42848e72f6e0a2a008ca0446145e5ac0d785dfdc96662",
     "results/full/figures/rmse_comparison.png": "2172501a62d78fe845b4439542254d88c63ba72c4105425560acd88429ec6bdd",
     "results/full/figures/soc_trace.pdf": "b92d9d3c978e23d8312354ffaf9e3ab47c8e0cb83a65ca4aacd883ba88124467",
-    "results/full/figures/soc_trace.png": "63661632229259a812f7590f4bf25aaeebbba196a03f6b564911b56b4e373f37"
+    "results/full/figures/soc_trace.png": "63661632229259a812f7590f4bf25aaeebbba196a03f6b564911b56b4e373f37",
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
   }
 }
