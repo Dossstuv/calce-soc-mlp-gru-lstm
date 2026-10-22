@@ -1,0 +1,58 @@
+{
+  "mode": "full",
+  "epochs_max": 50,
+  "seeds": [
+    11,
+    22,
+    33
+  ],
+  "train_records": [
+    "DST_0C_50SOC",
+    "DST_0C_80SOC",
+    "DST_25C_50SOC",
+    "DST_25C_80SOC",
+    "DST_45C_50SOC",
+    "DST_45C_80SOC"
+  ],
+  "validation_records": [
+    "FUDS_0C_50SOC",
+    "FUDS_0C_80SOC",
+    "FUDS_25C_50SOC",
+    "FUDS_25C_80SOC",
+    "FUDS_45C_50SOC",
+    "FUDS_45C_80SOC"
+  ],
+  "test_records": [
+    "BJDST_0C_50SOC",
+    "BJDST_0C_80SOC",
+    "BJDST_25C_50SOC",
+    "BJDST_25C_80SOC",
+    "BJDST_45C_50SOC",
+    "BJDST_45C_80SOC",
+    "US06_0C_50SOC",
+    "US06_0C_80SOC",
+    "US06_25C_50SOC",
+    "US06_25C_80SOC",
+    "US06_45C_50SOC",
+    "US06_45C_80SOC"
+  ],
+  "normalization_mean": [
+    3.555189371109009,
+    -0.534311830997467,
+    24.416404724121094
+  ],
+  "normalization_std": [
+    0.1640225052833557,
+    0.9305766224861145,
+    18.214759826660156
+  ],
+  "window": 60,
+  "train_windows": 10151,
+  "validation_windows": 53123,
+  "test_windows": 102080,
+  "torch": "2.14.1+cpu",
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "test_evaluated": true,
+  "reference": "reconstructed SOC; not independently measured"
+}

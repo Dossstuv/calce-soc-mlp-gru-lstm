@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "runs": 9,
+  "metrics_groups": 162,
+  "prediction_rows": 1396827,
+  "largest_metric_recomputation_difference_pp": 0.0,
+  "matched_target_times": true,
+  "targets_clipped": false,
+  "test_tuned": false,
+  "protocol_sha256": "da20284aab412fe9a2a6dd023f4bd41d2917da93b4e57ac35bd242ba3fd23409",
+  "train_script_sha256": "ee07a39459debda308d07666ae81248aadc3e1cca35a8f87eeafd1670fb7e06d",
+  "prediction_csv_sha256": "0072e090793f93f65fd8634d3a19d97f03129875491781ea0ec309dee6d30d24",
+  "limitation": "This audit verifies numerical consistency, not independent SOC truth or manuscript novelty"
+}

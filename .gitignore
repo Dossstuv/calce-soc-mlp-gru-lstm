@@ -1,0 +1,11 @@
+.venv/
+.deps/
+__pycache__/
+*.pyc
+.matplotlib/
+data/raw/*
+!data/raw/download_manifest.json
+data/processed/
+results/full/predictions.csv
+.env
+.env.*

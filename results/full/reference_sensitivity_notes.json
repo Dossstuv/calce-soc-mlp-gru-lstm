@@ -1,0 +1,14 @@
+{
+  "stage": "exploratory post hoc analysis motivated by data audit; not preregistered",
+  "calibration_capacity_Ah": 2.028344937765965,
+  "capacity_scenarios_Ah": [
+    2.0,
+    2.028344937765965,
+    2.06
+  ],
+  "interpretation": "Scenarios change the reference only. They are neither independent SOC truth nor measured capacity uncertainty. No model is retrained, selected or tuned.",
+  "timestamp_policy": "same common-domain target timestamps for all three capacities, models and seeds",
+  "prediction_rows_before": 918720,
+  "prediction_rows_after": 904059,
+  "distinct_common_targets": 100451
+}

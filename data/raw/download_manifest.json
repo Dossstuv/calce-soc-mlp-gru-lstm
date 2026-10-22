@@ -1,0 +1,118 @@
+{
+  "SP2_Initial_capacity_10_16_2015.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_Initial_capacity_10_16_2015.zip",
+    "bytes": 3146319,
+    "sha256": "d18f9a958e2dabcaef9999bb42e8043ea5092b5d0c557966d92e4ad675d95c9d",
+    "members": [
+      "10_16_2015_Initial capacity_SP20-2.xls"
+    ]
+  },
+  "SP2_25C_DST.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_25C_DST.zip",
+    "bytes": 3189603,
+    "sha256": "3d3a90a67574c336eca9d097a5f139aaad70e7fa3106078079da9cd11d1b3661",
+    "members": [
+      "11_05_2015_SP20-2_DST_50SOC.xls",
+      "11_05_2015_SP20-2_DST_80SOC.xls"
+    ]
+  },
+  "SP2_25C_FUDS.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_25C_FUDS.zip",
+    "bytes": 3426587,
+    "sha256": "e2ce8e4626c4263cb8758c9488cec66d31c04a9d11465c14e668428cead1e053",
+    "members": [
+      "11_06_2015_SP20-2_FUDS_80SOC.xls",
+      "11_09_2015_SP20-2_FUDS_50SOC.xls"
+    ]
+  },
+  "SP2_25C_US06.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_25C_US06.zip",
+    "bytes": 3372078,
+    "sha256": "cedf99281bad6c1f17a879d614f867451cf5994bad0f66d30c56290c1f6bb3fb",
+    "members": [
+      "11_11_2015_SP20-2_US06_50SOC.xls",
+      "11_11_2015_SP20-2_US06_80SOC.xls"
+    ]
+  },
+  "SP2_25C_BJDST.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_25C_BJDST.zip",
+    "bytes": 3005609,
+    "sha256": "df372646a75f495186a58c3f549baecf86e70e0478bf55a97e122bab10f5bf21",
+    "members": [
+      "11_12_2015_SP20-2_BJDST_80SOC.xls",
+      "11_13_2015_SP20-2_BJDST_50SOC.xls"
+    ]
+  },
+  "SP2_0C_DST.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_0C_DST.zip",
+    "bytes": 3033954,
+    "sha256": "0364da89c4df59b7d886aba367f9df5af20218afb7a9125893ffcf782a5078a0",
+    "members": [
+      "02_24_2016_SP20-2_0C_DST_50SOC.xls",
+      "02_24_2016_SP20-2_0C_DST_80SOC.xls"
+    ]
+  },
+  "SP2_0C_FUDS.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_0C_FUDS.zip",
+    "bytes": 3236440,
+    "sha256": "991874428ca56d37d6575869f55154b7add45af6b3a7183c9ad27e4eef9c81c1",
+    "members": [
+      "02_25_2016_SP20-2_0C_FUDS_50SOC.xls",
+      "02_25_2016_SP20-2_0C_FUDS_80SOC.xls"
+    ]
+  },
+  "SP2_0C_US06.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_0C_US06.zip",
+    "bytes": 3038972,
+    "sha256": "6aeb39cc018e0a71ebfbe7c9e2086a321a82d947965ce7515ee2ed40d847427b",
+    "members": [
+      "02_26_2016_SP20-2_0C_US06_50SOC.xls",
+      "02_26_2016_SP20-2_0C_US06_80SOC.xls"
+    ]
+  },
+  "SP2_0C_BJDST.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_0C_BJDST.zip",
+    "bytes": 4056128,
+    "sha256": "4527de6936f8dfdd3a22064f3ad5c6bda00ee7c5c7e79c9b192a6d5889f0710d",
+    "members": [
+      "02_27_2016_SP20-2_0C_BJDST_80SOC.xls",
+      "02_29_2016_SP20-2_0C_BJDST_50SOC.xls"
+    ]
+  },
+  "SP2_45C_DST.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_45C_DST.zip",
+    "bytes": 3538440,
+    "sha256": "b8ed594453817552fa962deb1bdbb3b002ac6de7efcfdb9b6cc8ae4cc6f58a9f",
+    "members": [
+      "12_11_2015_SP20-2_45C_DST_50SOC.xls",
+      "12_11_2015_SP20-2_45C_DST_80SOC.xls"
+    ]
+  },
+  "SP2_45C_FUDS.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_45C_FUDS.zip",
+    "bytes": 4054829,
+    "sha256": "17e796f6ee7c42dca1e3b38eafa9efc7a736512b19a88d0ebaf78bd37011cbd2",
+    "members": [
+      "12_15_2015_SP20-2_45C_FUDS_50SOC.xls",
+      "12_15_2015_SP20-2_45C_FUDS_80SOC.xls"
+    ]
+  },
+  "SP2_45C_US06.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_45C_US06.zip",
+    "bytes": 3945329,
+    "sha256": "471f4cdb4431e13c56cc2a4efd7565339713d9b816113ad094a1b72132071648",
+    "members": [
+      "12_16_2015_SP20-2_45C_US06_50SOC.xls",
+      "12_16_2015_SP20-2_45C_US06_80SOC.xls"
+    ]
+  },
+  "SP2_45C_BJDST.zip": {
+    "url": "https://web.calce.umd.edu/batteries/data/SP2_45C_BJDST.zip",
+    "bytes": 4729326,
+    "sha256": "ab25e87c42a51f7a5def4baded07d40bceb35dfb7d3ecc8551330fbb999fdc60",
+    "members": [
+      "12_17_2015_SP20-2_45C_BJDST_50SOC.xls",
+      "12_17_2015_SP20-2_45C_BJDST_80SOC.xls"
+    ]
+  }
+}

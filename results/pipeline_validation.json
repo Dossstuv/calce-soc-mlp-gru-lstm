@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "archives_verified": 13,
+  "records_verified": 24,
+  "raw_reference_samples": 210773,
+  "outside_reference_range_samples": 3359,
+  "outside_reference_range_percent": 1.5936576316700906,
+  "Q_reference_Ah": 2.028344937765965,
+  "feature_count": 3,
+  "target_clipping": false,
+  "record_level_split_disjoint": true,
+  "train_windows": 10151,
+  "max_abs_current_balance_difference_pp": 0.7441806002191956,
+  "note": "Pipeline checks do not establish independent SOC truth or scientific novelty"
+}
